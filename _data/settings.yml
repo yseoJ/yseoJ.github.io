@@ -43,8 +43,9 @@ hero:
 social:
 #- {icon: "ti-facebook", link: "#"}
 - {icon: "ti-instagram", link: "https://www.instagram.com/y.seo_j/"}
-#- {icon: "ti-twitter", link: "#"}
 - {icon: "ti-github", link: "https://github.com/yseoJ"}
+#- {icon: "ti-twitter", link: "#"}
+
 
 
 #-------------------------------
