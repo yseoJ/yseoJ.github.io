@@ -41,9 +41,10 @@ hero:
   hero-title: Hi! I’m <br> Engineer <br> Jang yoonseo
 
 social:
-- {icon: "ti-facebook", link: "#"}
-- {icon: "ti-instagram", link: "#"}
-- {icon: "ti-twitter", link: "#"}
+#- {icon: "ti-facebook", link: "#"}
+- {icon: "ti-instagram", link: "https://www.instagram.com/y.seo_j/"}
+#- {icon: "ti-twitter", link: "#"}
+- {icon: "ti-github", link: "https://github.com/yseoJ"}
 
 
 #-------------------------------
